@@ -8,7 +8,7 @@ onMounted(() => {
 
 <template>
   <div class="box">
-    hello, world!11asddasasdsdfrwqdasasda
+    hello, world!11asddasasdsdfrwqdasasdasad
   </div>
 </template>
 
